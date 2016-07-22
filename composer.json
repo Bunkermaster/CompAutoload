@@ -1,0 +1,13 @@
+{
+    "name": "bunkermaster/compautoload",
+    "description": "Composer Autoload checker",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Bunkermaster",
+            "email": "bunkermaster@gmail.com"
+        }
+    ],
+    "require": {}
+}

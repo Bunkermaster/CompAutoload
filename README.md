@@ -1,0 +1,2 @@
+# CompAutoload
+Composer Autoload checker
